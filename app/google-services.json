@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184582837901",
+    "project_id": "the-ll-project",
+    "storage_bucket": "the-ll-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184582837901:android:7d4e0cda21a07f8adf34c4",
+        "android_client_info": {
+          "package_name": "com.deltatech.ll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184582837901-9btri7lg3a5m9dghct0rdbsdnqhe4g45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN1JPQ6sAx0mpHDWA1-lk76OiAjz24mbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184582837901-9btri7lg3a5m9dghct0rdbsdnqhe4g45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
